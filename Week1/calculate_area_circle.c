@@ -15,4 +15,5 @@ int main(void){
     printf("enter radius:");
     r = scanf("%f", &r);
     printf("area of circle with radius %f is %f", r, calculate_area_circle(r,PI));
+    return 0
 }
