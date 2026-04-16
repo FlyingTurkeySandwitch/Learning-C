@@ -1,0 +1,18 @@
+## Weekly Projects
+
+A 12-week guided practice for learning C and core C programming concepts, from toolchain basics to data structures and algorithms. 
+
+| Week | Topic                  | Project                | Description                                                                                              |
+|------|------------------------|------------------------|----------------------------------------------------------------------------------------------------------|
+| 1    | C Basics & Toolchain   | Area of a Circle       | Calculate circle area while exploring compiler flags for preprocessed, assembly, and object file output. |
+| 2    | Control Flow           | Prime Factorizer       | Decompose an integer into its prime factors using nested loops (e.g., 12 → 2, 2, 3).                     |
+| 3    | Functions & Structure  | Modular Math Library   | Implement math functions (power, factorial) across separate files linked via a custom header.            |
+| 4    | Arrays & Algorithms    | Array Stats Engine     | Manually compute mean, median, and mode from a list of numbers stored in an array.                       |
+| 5    | Pointer Fundamentals   | The Memory Viewer      | Print memory addresses and raw hex byte values for various data types.                                   |
+| 6    | Strings in C           | Manual String Parser   | Reverse a sentence and count vowels without using `<string.h>`.                                          |
+| 7    | Structs & Types        | Student Database       | Store and search student records (ID, name, GPA) using an array of structs.                              |
+| 8    | Dynamic Memory         | Dynamic String Buffer  | Build a resizable string that doubles capacity via `realloc` when input exceeds current size.            |
+| 9    | Recursion              | Mock Directory Tree    | Simulate a file explorer by recursively printing a nested folder/file structure.                         |
+| 10   | Linked Lists           | Simple Task Manager    | A to-do list backed by a linked list, supporting insertion and mid-list deletion.                        |
+| 11   | Stacks & Queues        | Undo/Redo Stack        | Simulate a text editor's undo system by pushing and popping actions from a stack.                        |
+| 12   | Sorting & Searching    | The Leaderboard        | Sort a score list from highest to lowest and locate a player's rank via binary search.                   |
